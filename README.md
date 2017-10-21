@@ -1,0 +1,1 @@
+A small collection of tools written quickly.  They may not be optimized, but I've found some use for them.
